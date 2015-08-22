@@ -12,6 +12,7 @@ sudo apt-get install python-software-properties build-essential -y > /dev/null
 sudo add-apt-repository ppa:ondrej/php5 -y > /dev/null
 sudo apt-get update > /dev/null
 echo "Instalando PHP"
+sudo apt-get -y install php5 libapache2-mod-php5
 sudo apt-get install php5-common php5-dev php5-cli php5-fpm -y > /dev/null
 echo "Instalando extensiones de PHP"
 sudo apt-get install curl php5-curl php5-gd php5-mcrypt php5-mysql -y > /dev/null
