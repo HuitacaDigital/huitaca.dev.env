@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www":{"guestpath":"/var/www","hostpath":"/Users/davidemiliosierrapuentes/dev/huitaca.dev.env","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/davidemiliosierrapuentes/dev/huitaca.dev.env","disabled":false}}}
